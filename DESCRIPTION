@@ -1,7 +1,7 @@
 Package: HEEBOdata
 Type: Package
 Title: HEEBO set and HEEBO controls.
-Version: 1.43.0
+Version: 1.44.0
 Date: 2006-08-31
 Author: Agnes Paquet
 Maintainer: Agnes Paquet <apaquet@medsfgh.ucsf.edu>
